@@ -1,0 +1,11 @@
+.banner{
+    background-size: center;
+    background-repeat: none;
+    color: white;
+    font-weight: bold;
+    padding: 100px;
+}
+
+.banner p {
+    margin-bottom: 36px;
+}
